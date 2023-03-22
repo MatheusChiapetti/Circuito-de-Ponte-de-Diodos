@@ -24,19 +24,31 @@
 
 <h2>2 - PCB Layout:</h2>
 
+- O PCB Layout descreve a disposição dos componentes na placa e as trilhas. 
+
+<h3>2.1 - PCB Layout com a Ponte de Diodo:</h3>
 ![image](https://user-images.githubusercontent.com/110207330/227061688-0e5bd9a4-3e7c-457e-882f-460e81df5356.png)
 
-- O PCB Layout descreve a disposição dos componentes na placa e as trilhas. 
+<h3>2.2 - PCB Layout com a Ponte de Diodo Manual (feita à mão):</h3>
+![image](https://user-images.githubusercontent.com/110207330/227064565-717ec45d-44ff-4c4c-88ef-5798f33dfadd.png)
 
 <h2>3 - Circuito 3D:</h2>
 
-<h3>3.1 - Disposição dos Componentes na parte superior da placa:</h3>
+<h3>3.1 - Disposição dos Componentes na parte superior da placa com a Ponte de Diodo:</h3>
 
 ![image](https://user-images.githubusercontent.com/110207330/227062711-d9e08a01-bbde-49a1-aacd-36aadfb01826.png)
 
-<h3>3.2 - Trilhas na parte inferior da placa:</h3>
+<h3>3.2 - Trilhas na parte inferior da placa com a Ponte de Diodo:</h3>
 
 ![image](https://user-images.githubusercontent.com/110207330/227062853-266e8bed-75d8-4672-abc7-8bf2797552cf.png)
+
+<h3>3.3 - Disposição dos Componentes na parte superior da placa com a Ponte de Diodo Manual (feita à mão):</h3>
+
+![image](https://user-images.githubusercontent.com/110207330/227064748-81fc0ab2-21a1-49eb-9986-d99f6ccf8b4a.png)
+
+<h3>3.4 - Trilhas na parte inferior da placa com a Ponte de Diodo Manual (feita à mão):</h3>
+
+![image](https://user-images.githubusercontent.com/110207330/227064785-795a088a-efa3-4e10-9574-4b71079cfa21.png)
 
 <h2>4 - Layout do Circuito no Tinkercad:</h2>
 
