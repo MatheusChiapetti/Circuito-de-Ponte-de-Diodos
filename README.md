@@ -27,9 +27,11 @@
 - O PCB Layout descreve a disposição dos componentes na placa e as trilhas. 
 
 <h3>2.1 - PCB Layout com a Ponte de Diodo:</h3>
+
 ![image](https://user-images.githubusercontent.com/110207330/227061688-0e5bd9a4-3e7c-457e-882f-460e81df5356.png)
 
 <h3>2.2 - PCB Layout com a Ponte de Diodo Manual (feita à mão):</h3>
+
 ![image](https://user-images.githubusercontent.com/110207330/227064565-717ec45d-44ff-4c4c-88ef-5798f33dfadd.png)
 
 <h2>3 - Circuito 3D:</h2>
