@@ -37,3 +37,11 @@
 <h3>3.2 - Trilhas na parte inferior da placa:</h3>
 
 ![image](https://user-images.githubusercontent.com/110207330/227062853-266e8bed-75d8-4672-abc7-8bf2797552cf.png)
+
+<h2>4 - Layout do Circuito no Tinkercad:</h2>
+
+![image](https://user-images.githubusercontent.com/110207330/227063968-3808f1f6-32eb-4a16-8b33-a91096b100aa.png)
+
+<h2>5 - Ferramentas Utilizadas:</h2>
+
+- Proteus e Tinkercad.
