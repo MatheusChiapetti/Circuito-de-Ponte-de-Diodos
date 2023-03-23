@@ -32,7 +32,7 @@
 
 <h3>2.2 - PCB Layout com a Ponte de Diodo Manual (feita à mão):</h3>
 
-![image](https://user-images.githubusercontent.com/110207330/227064565-717ec45d-44ff-4c4c-88ef-5798f33dfadd.png)
+![image](https://user-images.githubusercontent.com/110207330/227065047-6db5c6b5-2c7b-4357-8df7-ac1687f713c9.png)
 
 <h2>3 - Circuito 3D:</h2>
 
